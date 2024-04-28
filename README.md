@@ -45,15 +45,15 @@ Here are some ideas to get you started:
 
 <div style="display: flex; align: center; justify-content: center;">
 
-  <img src="https://skillicons.dev/icons?i=python" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
+  <img src="https://skillicons.dev/icons?i=python" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
     
-  <img src="https://skillicons.dev/icons?i=docker" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
+  <img src="https://skillicons.dev/icons?i=docker" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
   
-  <img src="https://skillicons.dev/icons?i=linux" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
+  <img src="https://skillicons.dev/icons?i=linux" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
+  <img src="https://skillicons.dev/icons?i=golang" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
-
-
+  <img src="https://skillicons.dev/icons?i=gcp" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
 <br>
 
