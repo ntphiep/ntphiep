@@ -49,27 +49,6 @@ Here are some ideas to get you started:
   
   <img src="https://skillicons.dev/icons?i=linux" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
-  <img src="https://skillicons.dev/icons?i=postgres" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=mysql" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=vscode" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=github" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=git" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=django" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=neovim" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=kafka" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=premiere" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=rust" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
-
-  <img src="https://skillicons.dev/icons?i=k8s" alt="icon" data-canonical-src="https://techstack-generator.vercel.app/docker-icon.svg" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 
 
 
@@ -80,7 +59,7 @@ Here are some ideas to get you started:
 <h4 align="center">😙</h4>
 
 
-[![Hiep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ntphiep&theme=react-dark)](https://github.com/ntphiep/github-readme-activity-graph)
+[![Hiep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ng-hiep&theme=react-dark)](https://github.com/ng-hiep/github-readme-activity-graph)
 <br><br>
 
 
@@ -98,4 +77,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 -->
->>>>>>> b69320f (feat: update logo)
+
