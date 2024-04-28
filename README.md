@@ -11,10 +11,12 @@
 <br>
 
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
-- 🌱 I’m currently learning about **Data**, **DevOps** as well as **ML**
-- 👯 I’m looking to collaborate on **OpenSource Data Projects**
-- 🔭 More about me and my blog on: https://ntphiep.github.io/
-
+  
+- 🌱 I regularly learn about **Data**, **DevOps** as well as **Machine Learning**
+  
+- 🔭 I’m looking to collaborate on **OpenSource Data Projects**
+<!-- -  More about me and my blog on: https://ntphiep.github.io/
+ -->
 
 <!-- <h1 align="center">Hi there, my name is Hiep.</h1>
 <h3 align="center">Just a man!</h3>
