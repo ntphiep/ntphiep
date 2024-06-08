@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br>
 
 
-<h4 align="center">😙</h4>
+
 
 
 [![Hiep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ntphiep&theme=react-dark)](https://github.com/ntpiep/github-readme-activity-graph)
