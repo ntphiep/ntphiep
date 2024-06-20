@@ -12,7 +12,7 @@
 
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
   
-- 🌱 I regularly learn about **Data**, **DevOps** as well as **Machine Learning**
+- 🌱 I regularly learn about **Data** and **DevOps** 
   
 - 🔭 I’m looking to collaborate on **OpenSource Data Projects**
 <!-- -  More about me and my blog on: https://ntphiep.github.io/
