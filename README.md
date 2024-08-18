@@ -10,12 +10,14 @@
 
 <br>
 
+<!-- -  More about me and my blog on: https://ntphiep.github.io/
+
 - ⚡ I’m on my way to **Data Engineering / DevOps Engineering**
   
 - 🌱 I regularly learn about **Data** and **DevOps** 
   
 - 🔭 I’m looking to collaborate on **OpenSource Data Projects**
-<!-- -  More about me and my blog on: https://ntphiep.github.io/
+
  -->
 
 <!-- <h1 align="center">Hi there, my name is Hiep.</h1>
@@ -36,10 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
-
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px > </h2>
 
@@ -51,6 +49,12 @@ Here are some ideas to get you started:
   
   <img src="https://skillicons.dev/icons?i=linux" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
 <be>
+-->
+
+
+
+
+
 
 
 <br>
