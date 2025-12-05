@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <a href="https://ntphiep.github.io/"><img src="assets/vipp.png" alt="logo" style="height: 100px; width:120px;"/></a>
+  <a href="https://ntphiep.github.io/"><img src="assets/vipp.png" alt="logo" style="height: 100px; width:180px;"/></a>
   <br>
   <br>
   <div align=center>
